@@ -29,7 +29,8 @@ public class MainActivity extends AppCompatActivity {
 
         btnClick = findViewById(R.id.btnClick);
         tvLesson = findViewById(R.id.tvLesson);
-        // nghich linh tinh
+        // nghich linh tinh 1
+        // nghich linh tinh 2
 
 
 //        if(savedInstanceState!=null){
